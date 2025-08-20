@@ -43,59 +43,9 @@
 
 ---
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YourUsername/LLM-Data-Analyst.git
-cd LLM-Data-Analyst
-
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-
-pip install -r requirements.txt
-
-streamlit run streamlit_app.py
-
-Usage
-
-Upload your CSV dataset via the sidebar.
-
-Navigate between tabs to:
-
-Explore dataset overview
-
-View AI-generated insights
-
-Perform EDA
-
-Generate and download charts
-
-Ask AI questions about the dataset
-
-For chart generation, enter a natural language prompt (e.g., "bar chart of sales vs region") and click Generate Chart.
-
-Download charts directly using the Download buttons.
-
-
-LLM-Data-Analyst/
-├─ app.py                  # Main Streamlit app
-├─ app/
-│  ├─ llm_analysis.py      # Functions for GPT-based dKey Benefits
+ ## Key Benefits
 
 No coding required for generating insights or visualizations.
-
 Automatically generates reproducible Python code for charts.
-
 AI-powered recommendations make EDA faster and more insightful.
-
-Ideal for beginners, analysts, or anyone exploring new datasets.ata insights
-│  ├─ charts.py            # Functions to generate and render charts
-│  ├─ assistant.py         # AI assistant integration
-├─ requirements.txt        # Python dependencies
-└─ README.md
-
-
-
-
-
+Ideal for beginners, analysts, or anyone exploring new datasets.
