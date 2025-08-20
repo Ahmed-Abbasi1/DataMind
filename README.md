@@ -45,7 +45,7 @@
 
  ## Key Benefits
 
-No coding required for generating insights or visualizations.
-Automatically generates reproducible Python code for charts.
-AI-powered recommendations make EDA faster and more insightful.
-Ideal for beginners, analysts, or anyone exploring new datasets.
+- No coding required for generating insights or visualizations.
+- Automatically generates reproducible Python code for charts.
+- AI-powered recommendations make EDA faster and more insightful.
+- Ideal for beginners, analysts, or anyone exploring new datasets.
