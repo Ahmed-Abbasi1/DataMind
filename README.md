@@ -1,6 +1,6 @@
-# LLM Data Analyst
+# Data Mind
 
-**LLM Data Analyst** is an interactive Streamlit application that allows users to upload any CSV dataset and automatically generate insights, visualizations, and Python chart code using Large Language Models (LLMs) and smart EDA techniques. The app makes data analysis simple, fast, and accessible to both beginners and advanced users.
+**Data Mind** is an interactive Streamlit application that allows users to upload any CSV dataset and automatically generate insights, visualizations, and Python chart code using Large Language Models (LLMs) and smart EDA techniques. The app makes data analysis simple, fast, and accessible to both beginners and advanced users.
 
 ---
 
