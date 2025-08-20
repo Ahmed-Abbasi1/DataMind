@@ -34,8 +34,8 @@
 
 ## Tech Stack
 
-- **Frontend & App**: [Streamlit](https://streamlit.io/)
-- **Data Processing**: [Pandas](https://pandas.pydata.org/)
+- **Frontend & App**: [Streamlit](https://datamind-8m6u8hlbkf4tezv3qdbor7.streamlit.app/)
+- **Data Processing**: [Pandas]
 - **Visualization**: Matplotlib, Altair
 - **AI & LLM**: GPT integration via LangChain or custom APIs
 - **Environment Management**: Python 3.9+
