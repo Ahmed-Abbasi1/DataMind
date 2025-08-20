@@ -1,0 +1,13 @@
+streamlit 
+pandas 
+numpy  
+langchain 
+langchain_community
+langchain_groq
+plotly 
+pandas-profiling
+python-dotenv
+pandas-profiling 
+streamlit-pandas-profiling
+matplotlib
+tabulate
